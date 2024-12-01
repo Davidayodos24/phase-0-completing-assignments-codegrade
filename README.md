@@ -255,7 +255,7 @@ below, for example, `myfile.md` exists in the local VS Code editor, but not
 anywhere in the forked GitHub repo.
 
 ![Screenshot showing myfile.md in VS Code, but not in GitHub](https://curriculum-content.s3.amazonaws.com/phase-0/completing-assignments/myfile.png)
-
+..
 This is because you only made the change on your _local clone_. Changes that you
 make on a locally cloned repository are not automatically synced to the repo up
 on GitHub. You have to manually sync the changes. This is a good thing; it gives
